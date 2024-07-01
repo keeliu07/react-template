@@ -67,4 +67,16 @@ h6 {
   color: #333;
   margin: 20px;
   padding: 0;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+table {
+  padding-top: 2%;
+  width: 100%;
+}
+
+thead {
+  font-size: 25px;
+  text-align: left;
 }
